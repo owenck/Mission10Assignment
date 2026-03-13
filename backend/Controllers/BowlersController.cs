@@ -16,7 +16,7 @@ public class BowlersController : ControllerBase
             .Where(b => b.Team.TeamName == "Sharks" || 
                         b.Team.TeamName == "Marlins")
             .Select(b => new {
-                FirstName = b.BowlerFirstName,   // <-- change these to match your model
+                FirstName = b.BowlerFirstName,
                 Middle = b.BowlerMiddleInit,
                 LastName = b.BowlerLastName,
                 TeamName = b.Team.TeamName,
