@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission10Assignment", "Mission10Assignment\Mission10Assignment.csproj", "{73399430-87BB-453E-985E-4D4AFC934C8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission10Assignment", "backend\Mission10Assignment.csproj", "{73399430-87BB-453E-985E-4D4AFC934C8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
